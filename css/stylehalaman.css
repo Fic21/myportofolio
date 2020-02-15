@@ -1,0 +1,45 @@
+body{
+	background-color: #eaeaea;
+}
+.navbar{
+	background-color: #302285; 
+}
+
+.halaman1{
+	margin-top: 100px;
+}
+
+.judul{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+p{
+	text-indent: 30px;
+	text-align: justify;
+	font-family: arial;
+	font-size: 20px;
+	color: gray;
+}
+.isi img{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.carousel{
+	width: 500px;
+}
+.carousel-inner > .item > img {
+   width:100%; height:400px;
+}
+.carausel-inner > .item > h2{
+	font-size: 10px;
+}
+
+.list-group{
+	margin-left: 20px;
+}
+
+hr{
+	width: 750px;
+	border-top:3px solid #888;
+}
